@@ -1,4 +1,4 @@
-<h1>Album ratings <span class="badge badge-secondary">Dataset</span></h1> 
+<h1>Album ratings dataset</h1> 
 
 [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
