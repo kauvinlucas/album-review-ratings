@@ -1,6 +1,7 @@
 <h1>Album ratings dataset</h1> 
 
-[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 
 ### What is this?
 This repository contains a dataset of album's critic and user ratings, along with other public information available in the albumoftheyear.org (AOTY)
@@ -27,4 +28,4 @@ This dataset can be used for any kind of descriptive analysis or to predict albu
 Two weeks. The scrapper script was made and deployed in October 7 2020 and the data from the website were collected until October 20 2020.
 
 ### External links:
-* kaggle.com/kauvinlucas
+* https://www.kaggle.com/kauvinlucas
