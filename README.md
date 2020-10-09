@@ -2,12 +2,13 @@
 
 [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-## What is this?
-This repository contains a dataset of album's critic and user ratings, along with other album information available in the albumoftheyear.org (AOTY)
+### What is this?
+This repository contains a dataset of album's critic and user ratings, along with other public information available in the albumoftheyear.org (AOTY)
 
 The scrapper script is also made available.
 
-## What kind of data it contains?
+### What kind of data it contains?
+It contains 10 features with a total of 285.000 rows of data:
 1. Album artist
 2. Album title
 3. Critic score
@@ -19,5 +20,11 @@ The scrapper script is also made available.
 9. Record label
 10. Genre
 
-## What can I do with this dataset?
+### What can I do with this dataset?
 This dataset can be used for any kind of descriptive analysis or to predict album ratings based on certain circunstances.
+
+### How long did this scrapping project take?
+Two weeks. The scrapper script was made and deployed in October 7 2020 and the data from the website were collected until October 20 2020.
+
+### External links:
+* kaggle.com/kauvinlucas
