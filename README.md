@@ -2,14 +2,15 @@
 
 [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
+#### *Note: this is a work in progress.*
 
 ### What is this?
-This repository contains a dataset of album's critic and user ratings, along with other public information available in the albumoftheyear.org (AOTY)
+This repository contains a dataset of album's critic and user ratings, and album's metadata from albumoftheyear.org (AOTY), along with Metascore from Metacritic, Metacritic user scores and rateyourmusic.com user scores and reviews.
 
-The scrapper script is also made available.
+The scrapper script is also made available for those who want to update the existing dataset.
 
 ### What kind of data it contains?
-It contains 10 features with a total of 285.000 rows of data:
+It contains 15 features with a total of 100.000 rows of data:
 1. Album artist
 2. Album title
 3. Critic score
@@ -20,6 +21,12 @@ It contains 10 features with a total of 285.000 rows of data:
 8. Album format
 9. Record label
 10. Genre
+11. Metascore
+12. Metacritic critic reviews
+13. Metacritic user score
+14. Metacritic user reviews
+15. Rate Your Music user score
+16. Rate Your Music user review
 
 ### What can I do with this dataset?
 This dataset can be used for any kind of descriptive analysis or to predict album ratings based on certain circunstances.
