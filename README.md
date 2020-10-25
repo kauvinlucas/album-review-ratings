@@ -5,34 +5,26 @@
 #### *Note: this is a work in progress.*
 
 ### What is this?
-This repository contains a dataset of album's critic and user ratings, and album's metadata from albumoftheyear.org (AOTY), along with Metascore from Metacritic, Metacritic user scores and rateyourmusic.com user scores and reviews.
+This repository will contain a dataset of the album's critic, user ratings and metadata from three different music aggregators: Album of the Year (AOTY), Metacritic and Rate Your Music (RYM).
 
-The scrapper script is also made available for those who want to update the existing dataset.
+The scrapper script will eventually be made available for those who want to update the existing dataset.
 
 ### What kind of data it contains?
 It contains 15 features with a total of 100.000 rows of data:
 1. Album artist
 2. Album title
-3. Critic score
-4. User score
-5. Number of critic reviews
-6. Number of user reviews
-7. Release date
-8. Album format
-9. Record label
-10. Genre
-11. Metascore
-12. Metacritic critic reviews
-13. Metacritic user score
-14. Metacritic user reviews
-15. Rate Your Music user score
-16. Rate Your Music user review
+3. Release date
+4. Album format
+5. Record label
+6. Genre
+7. Critic reviews agregated scores
+8. User reviews agregated scores
 
 ### What can I do with this dataset?
-This dataset can be used for any kind of descriptive analysis or to predict album ratings based on certain circunstances.
+This dataset can be used for EDA or to make album ratings predictions.
 
 ### How long did this scrapping project take?
-Two weeks. The scrapper script was made and deployed in October 7 2020 and the data from the website were collected until October 20 2020.
+This is an ongoing project. It's expected to be concluded within four weeks. The starter date is October 7 2020.
 
 ### External links:
-* https://www.kaggle.com/kauvinlucas
+* My Kaggle profile: https://www.kaggle.com/kauvinlucas
