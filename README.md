@@ -21,7 +21,7 @@ Scores aren't normalized:
 This dataset can be used for EDA or to make album ratings predictions.
 
 ### How long did this scrapping project take?
-The scrapping project started in October 7 2020 and two around 2 months to be concluded. 
+The scrapping project started in October 7 2020 and took around 2 months to be concluded. 
 It's expected to be upgraded periodically to include new album releases.
 More sources are expected to be included.
 
